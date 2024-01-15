@@ -1,0 +1,45 @@
+html {
+
+    font-family: "raleway";
+    font-size: 20px;
+    background-color: #f8d0fe;
+    
+}
+
+body{
+
+    margin: 20px auto;
+    width: 1500px;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    background-color: rgb(206, 255, 220);
+}
+
+h1, h2, h3 {
+
+    text-align: center;
+    
+}
+
+video {
+
+    display: block;
+    margin: 0 auto;
+    height: 700px;
+    width: 700px;
+}
+
+button {
+
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(243, 24, 71);
+    
+}
+
+h3 {
+
+    margin: 50px 0px 0px 0px;
+
+}
+
